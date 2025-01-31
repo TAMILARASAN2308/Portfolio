@@ -3,5 +3,5 @@
 }
 
 .btn{
-    @apply bg-secondary px-2 md:px-5 py-2 font-bold hover:border-2 border-white rounded;
+    @apply bg-secondary;
 } 
