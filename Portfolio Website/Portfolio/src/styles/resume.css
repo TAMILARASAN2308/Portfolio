@@ -1,7 +1,0 @@
-.bg-secondary {
-    background: rgb(85 81 227);
-}
-
-.btn{
-    @apply bg-secondary px-5 py-2 font-bold hover:border-2 border-white rounded;
-} 
