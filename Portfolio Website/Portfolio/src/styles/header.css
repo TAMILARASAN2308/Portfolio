@@ -1,0 +1,19 @@
+nav ul li {
+    @apply px-2; 
+}
+
+.bg-secondary {
+    background: rgb(85 81 227);
+}
+
+.mobile-nav {
+    @apply fixed top-10 left-0 bg-gray-800 w-full h-1/4;
+}
+
+.mobile-nav li {
+    @apply w-full h-full text-center border-b-2;
+}
+
+.hover-nav {
+    @apply hover:scale-105 transition-all duration-300 mx-3;
+}
